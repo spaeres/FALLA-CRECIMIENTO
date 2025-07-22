@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Analysis-Medical%20Data-green.svg" alt="Medical Data Analysis">
 </div>
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Análisis+de+Falla+de+Crecimiento+en+Gastroenterología+Pediátrica" alt="Falla de Crecimiento - Gastroenterología Pediátrica" width="800">
-</div>
-
 Este repositorio contiene el análisis completo de datos clínicos de pacientes pediátricos con **Falla de Crecimiento** (Failure to Thrive) atendidos en el servicio de Gastroenterología Pediátrica. El estudio analiza las características epidemiológicas, diagnósticos, tratamientos y factores asociados en una cohorte de 78 pacientes.
 
 Este proyecto realiza un análisis exhaustivo de los factores asociados a la falla de crecimiento en pacientes pediátricos, utilizando datos clínicos, demográficos y paraclínicos. El análisis se desarrolla en un notebook de Jupyter, siguiendo una metodología estructurada de limpieza, validación, análisis descriptivo y estadístico.
